@@ -18,7 +18,9 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "prisma": "^6.4.0"
+    "http": "^0.0.1-security",
+    "prisma": "^6.4.0",
+    "ws": "^8.18.0"
   },
   "devDependencies": {
     "@types/cors": "^2.8.17",
