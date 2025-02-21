@@ -33,4 +33,7 @@ app.use(express.json());
 
 app.use("/api/v1/users", userRouter)
 
+
 app.listen(4000, () => console.log("Server running on port 4000"));
+
+

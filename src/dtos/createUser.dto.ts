@@ -9,4 +9,5 @@ export class CreateUserDTO {
     // @IsNotEmpty()
     // @Length(6, 20)
     password!: string
+
 }
